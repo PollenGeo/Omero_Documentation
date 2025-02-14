@@ -1,1 +1,1 @@
-### Some quick guide for Omero Software ###
+### Guide to use Omero for palynological analysis ###
