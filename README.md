@@ -1,4 +1,4 @@
-### Guide to use OMERO for palynological analysis-Frequently Asked Questions ###
+# Guide to use OMERO for palynological analysis-Frequently Asked Questions #
 
 ## Overview  
 This document serves as a comprehensive FAQ guide for **OMERO.Web**, a platform for managing, visualizing, and analyzing microscopy images, in this case for **Palynological analysis**. It provides step-by-step instructions on common issues, best practices, and troubleshooting tips for working with OMERO within the **SI staff network** or via **telework access**.  
